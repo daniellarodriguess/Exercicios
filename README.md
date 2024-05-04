@@ -3,7 +3,7 @@
 Meu professor, do técnico de informática, solicitou uma lista de programas executáveis na linguagem Java.
 
 ## 🧮 Tabuada. 
-- O primeiro exercício solicitado foi a criação de um programa que mostrasse uma tabuada de um número, em que o usuário fornecesse desse.
+- O primeiro exercício solicitado foi a criação de um programa que mostrasse uma tabuada de um número, em que o usuário fornecesse o mesmo.
 
 ## ✖ Potência.
 - O segundo exercício solicitado foi a criação de um programa, em que o usuário fornece a base e o expoente e, a partir disso, recebe o resultado da potência.
