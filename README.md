@@ -15,8 +15,9 @@ Meu professor, do técnico de informática, solicitou uma lista de programas exe
 - O quarto exercício solicitado foi a criação de um programa que imprimisse, a partir de um número inicial e um número final - ambos sendo pares, uma sequência, de números pares, a partir do número inicial e terminasse no número final.
 
 ## ➗ Média de números pares e ímpares.
-- O quinto exercício solicitado foi a criação de um programa que imprimisse a média, separada, de números pares e ímpares. Caso, não fosse fornecido números pares ou números ímpares, a média, tanto de números pares ou de números ímpares, não será fornecida.
+- O quinto exercício solicitado foi a criação de um programa que imprimisse a média, separada, de números pares e ímpares.
+- Caso, não fosse fornecido números pares ou números ímpares, a média, tanto de números pares ou de números ímpares, não será fornecida.
 
 ## 🛑 Desafio (também foi incluso um desafio do desafio solicitado pelo professor).
-- O sexto exercício solicitado foi um desafio solicitado, em que o programa gerasse um número aleatório e o usuário tentasse adivinhar até acertar;
+- O sexto exercício solicitado foi um desafio, em que o programa gerasse um número aleatório e o usuário tentasse adivinhar até acertar;
 - O desafio do desafio consiste em: Caso o usuário erre o número, será dada uma dica à ele - se o número informado é maior ou menor que o número aleatório.
