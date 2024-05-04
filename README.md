@@ -20,4 +20,4 @@ Meu professor, do técnico de informática, solicitou uma lista de programas exe
 
 ## 🛑 Desafio (também foi incluso um desafio do desafio solicitado pelo professor).
 - O sexto exercício solicitado foi um desafio, em que o programa gerasse um número aleatório e o usuário tentasse adivinhar até acertar;
-- O desafio do desafio consiste em: Caso o usuário erre o número, será dada uma dica à ele - se o número informado é maior ou menor que o número aleatório.
+- O desafio do desafio consiste em: caso o usuário erre o número, será dada uma dica à ele - se o número informado é maior ou menor que o número aleatório.
