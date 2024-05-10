@@ -32,11 +32,11 @@ public class Desafio {
                 
                 if (palpite > numero_aleatorio) {
 
-                    System.out.println("Dica: O número que você tentou é maior do que o número aleatório.\n");
+                    System.out.println("Dica: O número " + palpite + " é maior do que o número aleatório. Tente novamente com um número menor. \n");
 
                 } else {
 
-                    System.out.println("Dica: O número que você tentou é menor do que o número aleatório.\n");
+                    System.out.println("Dica: O número " + palpite + " é menor do que o número aleatório. Tente novamente com um número maior. \n");
 
                 }
 
